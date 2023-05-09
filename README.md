@@ -1,2 +1,2 @@
-# Barber-shop
+# barber-shop
 A simple Barbershop site
